@@ -1,0 +1,43 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Apr 10, 2019, 11:59:47 PM
+    Author     : OEM
+*/
+
+.moje:hover{
+    background-color: #cccccc;
+}
+.moje2:hover{
+    color: black;
+}
+.moje3:hover{
+    font-size: 1.2em;
+}
+.moje4:hover{
+    color: #e5e500;
+}
+.moje4{
+    color:#cccc00;
+}
+.moje5{
+    color: #ff0000;
+}
+.moje5:hover{
+    color: #ff9999;
+}
+.moje6{
+    color: #0000cc;
+}
+.moje6:hover{
+    color: #6666ff;
+}
+.moje7{
+    color: #333333;
+}
+.moje7:hover{
+    
+}
